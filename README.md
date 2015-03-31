@@ -1,0 +1,2 @@
+# Invariance
+Termination check algorithm
